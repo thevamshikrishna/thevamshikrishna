@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevamshikrishna&show_icons=true&locale=en&layout=compact" alt="thevamshikrishna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevamshikrishna&" alt="thevamshikrishna" /></p>
+<p><img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/></p>
 
