@@ -12,7 +12,7 @@
 - 🔭 Building **NeoBank Microservices System**
 - 🌱 Learning **System Design + Kafka + GCP**
 - 💬 Ask me about **Java, Spring Boot, Multithreading**
-- 🎯 Goal: **Product-Based Company by 2026**
+- 🎯 Goal: **Product-Based Company by 202_**
 
 ---
 
