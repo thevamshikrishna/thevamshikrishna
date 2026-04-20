@@ -1,25 +1,64 @@
-<h1 align="center">👋 Good to have you here!!</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
+<h3 align="center">🚀 Backend Developer | Java | Spring Boot | Microservices</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevamshikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="thevamshikrishna" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thevamshikrishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamshi-krishna-b7b4a8223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27097231/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://instagram.com/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arjunonig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arjunonig" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thevamshikrishna" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thevamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thevamshikrishna" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Microservices+Expert;DSA+%7C+Problem+Solver;Future+Product+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<img src="https://metrics.lecoq.io/thevamshikrishna?languages=1&languages.limit=8" />
+### 👨‍💻 About Me
+- 🔭 Working on **NeoBank Microservices Project**
+- 🌱 Learning **System Design & Advanced Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, MySQL**
+- 🎯 Goal: Crack a **Product-Based Company by 2026**
+- ⚡ Fun fact: I debug faster than I write code 😄
 
+---
 
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/thevamshikrishna/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/thevamshikrishna" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+<a href="https://github.com/thevamshikrishna" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
 
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevamshikrishna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevamshikrishna&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/thevamshikrishna?theme=dark&font=Baloo" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 💳 **NeoBank System** – Microservices-based digital banking  
+- 🔐 **JWT Auth System** – Secure login system using Spring Security  
+- 📊 **Log Analyzer** – Multi-threaded log processing tool  
+
+---
+
+### 🎯 Quote I Believe In
+> "First, solve the problem. Then, write the code." – John Johnson
